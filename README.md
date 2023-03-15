@@ -6,4 +6,5 @@
 3. Movies page has a banner and a list of trending movies from the API.
 4. The trending list has buttons that can Add to Favourites and undo it.
 5. The Favourites page has list of favourite movies which can be deleted, sorted and categorised according to genres, rating and popularity.
-6. Deployed at https://react-movies-q2cmczh11-chiragpandeybose.vercel.app/
+6. Utilised React class components, lifecycle methods and setState hook extensively.
+7. Deployed at https://react-movies-q2cmczh11-chiragpandeybose.vercel.app/
